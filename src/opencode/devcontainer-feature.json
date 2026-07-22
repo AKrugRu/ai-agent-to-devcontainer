@@ -1,7 +1,7 @@
 {
     "name": "Add opencode to devcontainer",
     "id": "opencode",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Добавляем в devcontainer агента opencode последней версии",
     "options": {
         "version": {
